@@ -1,0 +1,1 @@
+# SHopify-domain-setup
